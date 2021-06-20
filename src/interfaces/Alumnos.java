@@ -50,7 +50,6 @@ public class Alumnos extends javax.swing.JFrame {
             }
         });
     }
-    //HOLI BOLI CHINA -_- !
 
     public void bloquearBtnInicio (){
         jBtnActualizar.setEnabled(false);
